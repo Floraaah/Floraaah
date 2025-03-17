@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Sitemap"
-permalink: /Floraaah//sitemap/
+permalink: https://floraaah.github.io/sitemap/
 author_profile: true
 ---
 
