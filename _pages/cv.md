@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 Nothing but a reserved template!
-PDF version: [Click to download](../assets/LYF_CV.pdf)
+PDF version: [Click to download](../files/LYF_CV.pdf)
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
