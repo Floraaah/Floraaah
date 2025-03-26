@@ -8,7 +8,7 @@ sitemap:
   {% for page in site.pages %}
     {% unless page.sitemap.exclude == 'yes' %}
     <url>
-      <loc>{{ site.url }}{{ page.url | remove: 'index.html' }}</loc>
+      <loc>{{ https://floraaah.github.io/Floraaah }}{{ page.url | remove: 'index.html' }}</loc>
       <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     </url>
     {% endunless %}
